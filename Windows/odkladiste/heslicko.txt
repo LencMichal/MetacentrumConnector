@@ -1,0 +1,8 @@
+
+VNCPWD.EXE - v1.1.1
+Copyright (c) 2002, 2003 by Patrick Garnier
+
+This program is freeware - http://www.sysworksoft.net
+Feel free to send any comments to patrick.garnier@sysworksoft.net
+
+Encrypted VNC password is: 0bbce44cbcf0eb4e

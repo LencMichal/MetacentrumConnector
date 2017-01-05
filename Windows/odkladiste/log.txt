@@ -1,0 +1,50 @@
+Linux skirit.ics.muni.cz 3.2.0-0.bpo.4-amd64 #1 SMP Debian 3.2.68-1+deb7u3~bpo60+1+zs1 x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+
+Last login: Thu Dec  1 13:33:44 2016 from ip-37-188-194-240.eurotel.cz
+  __  __      _          ____            _
+ |  \/  | ___| |_  __ _ / ___| ___ _ __ | |_ _ __ _   _ _ __ ___
+ | |\/| |/ _ \ __|/ _` | |    / _ \ \_ \| __| \__| | | | \_ ` _ \
+ | |  | |  __/ |_| (_| | |___|  __/ | | | |_| |  | |_| | | | | | |
+ |_|  |_|\___|\__|\__,_|\____|\___|_| |_|\__|_|   \__,_|_| |_| |_|
+                                                                  
+ Your Home Directories
+ ----------------------
+  Size  Avail  S.Quota   Used Directory
+  110T    28T      31G   787M /storage/brno2/home/stanej07
+  932T   723T     101G   128k /storage/brno3-cerit/home/stanej07
+  262T    55T     209G      0 /storage/brno6/home/stanej07
+  374T   230T       1T      0 /storage/brno7-cerit/home/stanej07
+   88T    21T     102G     4k /storage/brno8/home/stanej07
+   44T    11T     102G   132k /storage/budejovice1/home/stanej07
+  352T   240T       1T   480k /storage/plzen1/home/stanej07
+   51T    12T     102G    28k /storage/praha1/home/stanej07
+
+ CPUs
+ -----
+  Total  Avail   Free
+  10948  10062    984
+
+ Contact
+ --------
+  E-mail:	meta@cesnet.cz
+  Web:		http://www.metacentrum.cz/
+
+Linux skirit.ics.muni.cz 3.2.0-0.bpo.4-amd64 #1 SMP Debian 3.2.68-1+deb7u3~bpo60+1+zs1 x86_64
+module adstanej07@skirit:~$ module add gui && gui start -g 1600x900 
+
+*****************************************
+ Your VNC session has been started.
+ The connection details are as follows:
+   Host & port : skirit.ics.muni.cz:11774
+   Password    : 1NMrcTxn
+   Display     : :98
+*****************************************
+stanej07@skirit:~$ 
+stanej07@skirit:~$ 
